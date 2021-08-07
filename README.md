@@ -2,6 +2,8 @@
 Convolutional Neural Network was applied on 14.1K observations to classify images of twentytwo sports using ReLu and Softmax activations.
 
 One test of this model is:
+
+
 ![Capture](https://user-images.githubusercontent.com/85298011/128605036-75901305-11a3-45af-a813-1819f5b70122.PNG)
 
 
